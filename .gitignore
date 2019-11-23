@@ -1,0 +1,14 @@
+# Backup and temp files
+*~
+
+# maven outputs
+target/
+release.properties
+pom.xml.releaseBackup
+
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
